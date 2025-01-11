@@ -1,0 +1,42 @@
+.App {
+    font-family: Arial, sans-serif;
+  }
+  
+  .toolbar {
+    background-color: #f1f1f1;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .formula-bar {
+    background-color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .spreadsheet {
+    display: grid;
+    grid-template-columns: repeat(26, 1fr);
+    gap: 1px;
+    margin-top: 20px;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .cell {
+    border: 1px solid #ddd;
+    padding: 10px;
+    min-width: 50px;
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    text-align: center;
+  }
