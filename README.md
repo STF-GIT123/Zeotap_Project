@@ -123,7 +123,7 @@ npm start
 ---
 
 ## *Deployment*
-Deployed using *Render*. The deployed  website can be seen here, where, we can add the number of rows and columns we need and can clear when not needed just like as in the Google Sheets.This can be seen here:   http://localhost:3000/
+Deployed using *Render*. The deployed  website can be seen here, where, we can add the number of rows and columns we need and can clear when not needed just like as in the Google Sheets.This can be seen here:  http://localhost:3000/
 
 ---
 
